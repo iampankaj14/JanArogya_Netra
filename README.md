@@ -28,6 +28,8 @@ Built for **Google Cloud Build with AI — Code for Communities** · Track: **Sm
 | **🩺 Block Medical Officer (BMO)** | `ananya.sharma@health.gov.in` <kbd>Copy</kbd> | `ANANYAGOV@1234` <kbd>Copy</kbd> |
 | **👨‍⚕️ PHC Staff** | `vikram.patel@phc.org` <kbd>Copy</kbd> | `VIKRAM@GOV1234` <kbd>Copy</kbd> |
 
+---
+
 ## 🩺 Problem Statement
 
 District Health Officers (DHOs) overseeing dozens of Primary and Community Health Centers have almost no real-time visibility into what's happening on the ground. Medicine stockouts, sudden disease spikes, and PHCs that go silent are typically discovered *after* they've already become emergencies — via a phone call, a paper report, or a crisis. There is no single system that continuously watches every facility, understands the trend, and recommends a corrective action before it's too late.
