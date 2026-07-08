@@ -13,8 +13,8 @@ Built for **Google Cloud Build with AI — Code for Communities** · Track: **Sm
 | Deliverable | Link |
 |---|---|
 | 🚀 **Working Prototype** | [janarogya-netra-demo.surge.sh](https://janarogya-netra-demo.surge.sh) |
-| 💻 **GitHub Source Code** | [(you are here](https://github.com/iampankaj14/JanArogya_Netra) |
-| 🎯 **Pitch Deck** | [pitch deck](https://drive.google.com/file/d/18R7tS44F7i8DuH1V8GW-VStW1s5fmUSn/view) |
+| 💻 **GitHub Source Code** | [(you are here)](https://github.com/iampankaj14/JanArogya_Netra) |
+| 🎯 **Pitch Deck** | [pitch deck pdf](https://drive.google.com/file/d/18R7tS44F7i8DuH1V8GW-VStW1s5fmUSn/view) |
 
 ---
 
