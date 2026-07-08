@@ -20,14 +20,45 @@ Built for **Google Cloud Build with AI — Code for Communities** · Track: **Sm
 
 ## 🔒 Demo Login Credentials
 
-> Use the following demo accounts to explore the application.
+### 🏥 District Health Officer (DHO)
 
-| Role | Email | Password |
-|------|-------|----------|
-| **🏥 District Health Officer (DHO)** | `rajesh.kumar@health.gov.in` <kbd>Copy</kbd> | `RAJESHGOV@1234` <kbd>Copy</kbd> |
-| **🩺 Block Medical Officer (BMO)** | `ananya.sharma@health.gov.in` <kbd>Copy</kbd> | `ANANYAGOV@1234` <kbd>Copy</kbd> |
-| **👨‍⚕️ PHC Staff** | `vikram.patel@phc.org` <kbd>Copy</kbd> | `VIKRAM@GOV1234` <kbd>Copy</kbd> |
+**Email**
+```text
+rajesh.kumar@health.gov.in
+```
 
+**Password**
+```text
+RAJESHGOV@1234
+```
+
+---
+
+### 🩺 Block Medical Officer (BMO)
+
+**Email**
+```text
+ananya.sharma@health.gov.in
+```
+
+**Password**
+```text
+ANANYAGOV@1234
+```
+
+---
+
+### 👨‍⚕️ PHC Staff
+
+**Email**
+```text
+vikram.patel@phc.org
+```
+
+**Password**
+```text
+VIKRAM@GOV1234
+```
 ---
 
 ## 🩺 Problem Statement
